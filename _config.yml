@@ -19,7 +19,7 @@ sidebar-avatar: /img/img3.png      # use absolute URL, seeing it's used in both 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     poonchingai
+#zhihu_username:     poonchingai
 github_username:    poonchingai
 #facebook_username:  潘紫霓
 #jianshu_username:   e71990ada2fd
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "🐷",
+        title: "ZyuZyu",
         href: "http://hechangran.github.io"
     },{
         title: "DSP",
