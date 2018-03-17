@@ -1,10 +1,10 @@
 # Site settings
-title: Beef chow fun
-SEOTitle: Har gow
+title: 幕後
+SEOTitle: ineptie
 header-img: img/bg.jpg
 email: uunadon@gmail.com
-description: "Braised chicken"
-keyword: "chicken mcnuggets"
+description: "Salieri"
+keyword: "Salieri"
 url: "https://poonchingai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
