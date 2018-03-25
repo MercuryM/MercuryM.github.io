@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     poonchingai
 github_username:    poonchingai
-#facebook_username:  潘紫霓
+#facebook_username:  
 #jianshu_username:   e71990ada2fd
 #twitter_username:   eiiiii
 
@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ZyuZyu",
+        title: "阿咕",
         href: "http://hechangran.github.io"
     },{
-        title: "DSP",
-        href: "https://www.coursera.org/learn/dsp/home/welcome"
+        title: "法扎",
+        href: "https://www.bilibili.com/video/av3058236"
     }
 ]
