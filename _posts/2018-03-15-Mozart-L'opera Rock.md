@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      我是我的梦想的国王
+title:      「我是我的梦想的国王」
 subtitle:   Mozart, l'opéra rock
 date:       2018-3-15
 author:     poonchingai
