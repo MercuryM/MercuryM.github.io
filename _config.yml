@@ -67,7 +67,7 @@ gitalk:
   repo: poonchingai.github.io    #仓库名称
   owner: Poonchingai    #github用户名
   admin: poonchingai
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
