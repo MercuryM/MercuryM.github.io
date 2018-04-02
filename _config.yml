@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 26433d2a9a64dd29c597   #生成的clientID
-  clientSecret: f2a247b392dba5dfa4200b16b7fa6a7dcaf7b3df  #同上
+  clientID: 4a2025704dbf8ddf4b13   #生成的clientID
+  clientSecret: 55e24d26323ab3f427928d0c26174779585ba14a  #同上
   repo: poonchingai.github.io    #仓库名称
   owner: Poonchingai    #github用户名
   admin: poonchingai
