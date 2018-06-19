@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Les Misérables The 25th Anniversary
+title:      Les Misérables 25th Anniversary
 subtitle:   (2010)
 date:       2018-6-19
 author:     poonchingai
