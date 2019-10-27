@@ -8,7 +8,7 @@ description: "It's better to burn out than to fade away."
 keyword: "Mercury, Mercury Blog, Keyan Miao"
 url: "http://MercuryM.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/MerucyM/Mercury.github.io.git" # you code repository
+github_repo: "https://github.com/MerucyM/MercuryM.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
