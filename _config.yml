@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: e4bac561fa1fcab8306e                            #生成的clientID
-  clientSecret: 2308e3c5e16a11ef13b697c9ab2ece54c04670cc    #生成的clientSecret
+  clientID: e1b643753a63f0798fb0                            #生成的clientID
+  clientSecret: eca74fe7a49f4ceae8082173073cdeb57df81428    #生成的clientSecret
   repo: MercuryM.github.io    #仓库名称
   owner: MercuryM    #github用户名
   admin: MercuryM
