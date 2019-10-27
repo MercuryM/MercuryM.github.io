@@ -4,7 +4,7 @@ SEOTitle: Keyan M的博客 | Mercury Blog
 header-img: img/post-bg-desk.jpg
 email: keyan.miao54@gmail.com
        keyan.miao19@ic.ac.uk
-description: It is better to burn out than to fade away.
+description: "It is better to burn out than to fade away."
 keyword: Mercury, Mercury Blog, Keyan Miao
 url: "http://MercuryM.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/MerucyM/MercuryM.github.io.git" # you code repo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: 愁容骑士不多余
+sidebar-about-description: "愁容骑士不多余"
 #sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
